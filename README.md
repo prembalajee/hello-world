@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+Hi guys!
+
+ bala here,I know c,c++ and html.i am also interested in networking and security.
+
+
